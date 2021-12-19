@@ -11,11 +11,7 @@ git clone https://github.com/homtele/account-login.git
 cd account-login
 npm install
 ```
-3. Seed the data
-```
-npm run seed
-```
-4. Run the project
+3. Run the project
 ```
 npm start
 ```
